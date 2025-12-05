@@ -12,11 +12,11 @@ export const AboutCoach: React.FC = () => {
               Markus Hoffelner
             </h3>
 
-            <div className="flex justify-center my-6">
+            <div className="aspect-[4/5] rounded-3xl overflow-hidden shadow-xl max-w-md mx-auto bg-gray-100 my-8">
                 <img 
-                    src="/assets/markus-coach.png" 
-                    alt="Markus Hoffelner - Zertifizierter Ernährungscoach"
-                    className="w-full max-w-[350px] h-auto rounded-2xl shadow-xl object-cover"
+                  alt="Markus Hoffelner Fitness Coach Portrait" 
+                  className="w-full h-full object-cover" 
+                  src="https://raw.githubusercontent.com/markushoffelnerinnovation-lab/ee.github.io/main/DSC06573.jpg" 
                 />
             </div>
             
